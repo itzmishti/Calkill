@@ -10,11 +10,7 @@ import android.view.ViewGroup;
 
 import com.edu.myapplication.R;
 
-/**
- * A simple {@link Fragment} subclass.
- * Use the {@link ExerciseFragment#newInstance} factory method to
- * create an instance of this fragment.
- */
+
 public class ExerciseFragment extends Fragment {
 
     // TODO: Rename parameter arguments, choose names that match
